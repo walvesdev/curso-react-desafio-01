@@ -1,0 +1,21 @@
+{
+  "name": "mario-kart-terminal",
+  "version": "1.0.0",
+  "description": "Um simulador de corridas inspirado em Mario Kart para terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "mario",
+    "kart",
+    "terminal",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
